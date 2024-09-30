@@ -1,4 +1,4 @@
 -👋我是高木子熙 My name is Gao Muzixi
 -👀我对编程感兴趣 I'm interesting in PROGRAMMING
--🌱我目前正在学习C++语言（初赛过不了就学不了了QwQ） I'm learning C++
+-🌱我目前正在学习C++语言（初赛过了！！！） I'm learning C++
 -📫如何联系我：请通过1413697469@qq.com联系我 Call me at 1413697469@qq.com
